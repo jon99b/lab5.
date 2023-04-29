@@ -12,4 +12,6 @@ Hoppe, Edward J., Fabrizio Novali, Alessio Rucci, Alfio Fumagalli, Sara Del Cont
 Parlikad, Arjith Kumar, and M. Jafari. "Challenges in infrastructure asset management." IFAC-PapersOnLine 49, no. 28 (2016): 185-190.
 Long, Gavin, M. J. Mawdesley, Martin Smith, and Ahmad Taha. "Simulation of airborne LiDAR for the assessment of its role in infrastructure asset monitoring." In Proceedings of the international Conference on computing in civil and building engineering. Nottingham University Press, Nottingham, UK, 2010.
 
-
+https://tenor.com/view/mike-ehrmantraut-kid-named-finger-waltuh-walter-white-finger-gif-26340149
+https://tenor.com/view/carl-carl-wheezer-croissant-gif-17987376
+https://tenor.com/view/beetlejuice-smoking-gif-21141227
