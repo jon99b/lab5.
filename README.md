@@ -14,7 +14,7 @@ Works Cited
 
 Hoppe, Edward J., Fabrizio Novali, Alessio Rucci, Alfio Fumagalli, Sara Del Conte, Giacomo Falorni, and Nora Toro. “Deformation Monitoring of Posttensioned Bridges Using High-Resolution Satellite Remote Sensing.” Journal of Bridge Engineering 24, no. 12 (2019). https://doi.org/10.1061/(asce)be.1943-5592.0001479.
 Parlikad, Arjith Kumar, and M. Jafari. "Challenges in infrastructure asset management." IFAC-PapersOnLine 49, no. 28 (2016): 185-190.
-Long, Gavin, M. J. Mawdesley, Martin Smith, and Ahmad Taha. "Simulation of airborne LiDAR for the assessment of its role in infrastructure asset monitoring." In Proceedings of the international Conference on computing in civil and building engineering. Nottingham University Press, Nottingham, UK, 2010.
+Long, Gavin, M. J. Mawdesley, Martin Smith, and Ahmad Taha. "Simulation of airborne LiDAR for the assessment of its role in infrastructure asset monitoring." In Proceedings of the international Conference on computing in civil and building engineering. Nottingham University Press, Nottingham, UK, 2010. 
 
 
 
